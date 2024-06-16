@@ -25,28 +25,24 @@ Welcome to the Sales Dashboard repository! This Tableau dashboard offers an insi
 
 ## Files
 
-- `Sales_Dashboard.twbx`: Tableau Packaged Workbook containing the interactive dashboard.
+
 - `Sales-Tableau-Dashboard.png`: Screenshot of the sales dashboard.
 
-## How to Use
 
-1. **Download the Tableau Workbook**: Click on the `Sales_Dashboard.twbx` file to download it.
-2. **Open in Tableau**: Open the file using Tableau Desktop.
-3. **Explore the Dashboard**: Interact with the visualizations to uncover detailed sales insights.
 
 ## Description
 
 This dashboard provides a comprehensive overview of our sales performance. It includes key performance indicators (KPIs), a state-by-state sales and profit analysis, monthly sales breakdown by segment, and detailed sales figures by location and manager. The visualizations help identify trends and make informed business decisions.
 
-## Contribution
+## Online Access
 
-We welcome contributions! Feel free to fork this repository, make improvements, and submit pull requests.
+You can also view the dashboard online on Tableau Public: [Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/disha.yadav/viz/SalesDashboardProject_17071683876730/SalesDashboard)
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE.md file for details.
+
+
 
 ## Contact
 
-For questions or feedback, please contact [your email].
+For questions or feedback, please contact dishayadav9728@gmail.com
 
